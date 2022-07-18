@@ -2,7 +2,7 @@
 <div align='center'>
 <h4>Welcome</h4>
   <a>
-<img src="https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-cat-free.png?ssl=1" alt="Hack The Box" height='200', width='160'/>
+<img src="https://i0.wp.com/www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-cat-free.png?ssl=1" alt="Hack The Box" height='500' width='400'>
  </div>
  </a>
 
